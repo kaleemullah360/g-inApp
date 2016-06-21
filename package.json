@@ -1,0 +1,33 @@
+{
+  "name": "g-inapp",
+  "version": "1.0.0",
+  "description": "In-App-Purchase validation and subscription management for iOS, Android, Amazon, and Windows",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git.kaleem"
+  },
+  "keywords": [
+    "In-App-Purchase",
+    "validation",
+    "and",
+    "subscription",
+    "management",
+    "for",
+    "iOS",
+    "Android",
+    "Amazon",
+    "and",
+    "Windows"
+  ],
+  "author": "kaleemullah360@live.com",
+  "license": "ISC",
+  "dependencies": {
+    "in-app-purchase": "^1.1.6",
+    "install": "^0.8.1",
+    "npm": "^3.9.5"
+  }
+}
